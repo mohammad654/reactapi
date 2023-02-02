@@ -13,7 +13,7 @@ function Form1() {
               {/* //--------------------------------------- */}
 
               <label className="mt-3 d-flex justify-content-start">
-                Berichnaam
+                Berichtnaam
               </label>
               <input type="text" className="form-control mt-3" name="name" />
 
